@@ -18,12 +18,14 @@ Start Video analysis on motion detection
 Detect objects present
 ![Detect objects present](https://github.com/raviskumawat/Autonomous-multimodal-Indoor-surveillance-system-AMISS-/blob/master/output%20imgs/object_detect.png)
 
+![](https://github.com/raviskumawat/Autonomous-multimodal-Indoor-surveillance-system-AMISS-/blob/master/output%20imgs/Object%20Detection.jpg)
 
 
-### Face and facial expression Recognition: 
+
+### Multiface tracking, Face recognition and facial expression classifier: 
 Check whether the person is known criminal
 ![Detect faces>>>>Recognise face and emotion](https://github.com/raviskumawat/Autonomous-multimodal-Indoor-surveillance-system-AMISS-/blob/master/output%20imgs/face_emo_rec.png)
-
+![](https://github.com/raviskumawat/Autonomous-multimodal-Indoor-surveillance-system-AMISS-/blob/master/output%20imgs/Multiface%20racking%2C%20Recognition%20and%20Expression%20classifier.png)
 
 
 
@@ -42,6 +44,7 @@ Classify sounds present
 
 ### Speech emotion classification: 
 Identify emotion if human sound present
+![Spectrogram Features](https://github.com/raviskumawat/Autonomous-multimodal-Indoor-surveillance-system-AMISS-/blob/master/output%20imgs/Audio%20emotion.png)
 ![Identify emotion if human sound present](https://github.com/raviskumawat/Autonomous-multimodal-Indoor-surveillance-system-AMISS-/blob/master/output%20imgs/emotion_audio.png)
 
 
@@ -68,3 +71,7 @@ Classify the captions generated from video
 
 # Combined Video Model
 ![](https://github.com/raviskumawat/Autonomous-multimodal-Indoor-surveillance-system-AMISS-/blob/master/output%20imgs/video_out_3.png)
+
+
+# Final Output
+![](https://github.com/raviskumawat/Autonomous-multimodal-Indoor-surveillance-system-AMISS-/blob/master/output%20imgs/Final%20Output.png)
