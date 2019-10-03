@@ -8,6 +8,12 @@ After pre-processing and converting into suitable representations, the following
 are performed:
 
 
+
+# Video-flow
+![Flow-Diagram for Video Module](https://github.com/raviskumawat/Autonomous-multimodal-Indoor-surveillance-system-AMISS-/blob/master/output%20imgs/VIDEO_final.png)
+
+
+
 ### Motion Detection: 
 Start Video analysis on motion detection
 ![Detect motion and track objects](https://github.com/raviskumawat/Autonomous-multimodal-Indoor-surveillance-system-AMISS-/blob/master/output%20imgs/motion_detect.png)
@@ -34,6 +40,10 @@ Identify the situation in the photo
 ![Caption the images](https://github.com/raviskumawat/Autonomous-multimodal-Indoor-surveillance-system-AMISS-/blob/master/output%20imgs/img_caption.png)
 
 
+# Audio-flow
+![Flow-Diagram for Audio Module](https://github.com/raviskumawat/Autonomous-multimodal-Indoor-surveillance-system-AMISS-/blob/master/output%20imgs/audio_flow.png)
+
+
 # Audio Models
 After pre-processing and converting audio into suitable representations, the following
 tasks are performed:
@@ -55,15 +65,6 @@ Classify the captions generated from video
 ![Classify the captions generated from video](https://github.com/raviskumawat/Autonomous-multimodal-Indoor-surveillance-system-AMISS-/blob/master/output%20imgs/threat_classify.png)
 
 
-
-
-
-# Audio-flow
-![Flow-Diagram for Audio Module](https://github.com/raviskumawat/Autonomous-multimodal-Indoor-surveillance-system-AMISS-/blob/master/output%20imgs/audio_flow.png)
-
-
-# Video-flow
-![Flow-Diagram for Video Module](https://github.com/raviskumawat/Autonomous-multimodal-Indoor-surveillance-system-AMISS-/blob/master/output%20imgs/VIDEO_final.png)
 
 
 # Combined Audio Model
