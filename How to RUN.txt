@@ -1,0 +1,9 @@
+How to run???
+
+Audio module:
+Open cmd and type the following command:
+python Audio_module.py
+
+Video module:
+Open cmd and type the following command:
+python video_module_full.py

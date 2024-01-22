@@ -1,0 +1,27 @@
+# NOTES/IDEAS
+
+:-Check out the "atm.wav" for sample noise and conversation in ATM (recorded by me and yash REAL DATA)
+
+1)fear vs. neutral classification for all people present in the room individually (Emotion Analysis using sound) -surya:oye bhosdike chal paise nikal ravi:nikal raha hu bhai(clam)
+
+2)Load with all common all languages warning/threatning sentences and just build a simple classifier(chal pasise nikaal ,give me the money etc.) (keyword spotting)
+
+Traffic horns,opening/closing doors, people talking in the background, train movement
+4)The incoming signal is first classified as normal (metro station environment) or abnormal (scream, gunshot or explosion) and in case it is decided to be abnormal the system proceeds into a second processing stage where the type of abnormality is identified
+
+make Two decision tree models
+1:Extract all sound peaks and mark the label as 1 and other ATM sounds and normal conversations as 0 2:Extract all "situation words in various Indian languages" make them as 1 . *** Give a threshold values like model requires at least 5 classifications in order to set the alarm. *** Give very high weights to special sounds such as "Gun shots" etc.
+1)Acoustic based intrusion detection system in Indian ATMs : The model uses two decision tree classifiers ,one classifies the ongoing action based on pitch, amplitude, shrillness,etc recorded by microphone and other tries to classifies based on common words used during attacks such as "please","gun" etc.
+
+FFT:
+
+How to get the amount of each frequency in a signal?
+How audio signals are represented digitally?
+At one instance of time there are multiple frequencies or the whole audio signal can be created with n waves and thus n frequencies?
+How to extract and subtract noise from the ".wav" ?
+Nyquist limit??????
+FTT gives what a constant repeating signal is composed of like "peeeeeeeiiiiiiii" but a sound is composed of many such signals at different times thus we need to sample the audio signal(maybe by windowing) and find the frequencies in that time period? Maybe we can have a Global time for which all frequencies are played i.e total-time-played vs frequency graph to extract the noise.
+I can get the frequencies present in the silence part of the audios and make them very small in the FFT of the original wave and again combine the FFT to get a new de-noised sound. *FFT+FFT=original wave?
+*open source projects deep learning
+
+create a formula based on slope and amplitude which lets pass certain frequencies only
