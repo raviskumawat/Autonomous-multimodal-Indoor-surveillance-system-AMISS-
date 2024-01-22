@@ -1,0 +1,43 @@
+;; Transcriber export by stm.tcl,v 1.19 on Fri Mar 30 10:40:01 IST 2018 with encoding ISO-8859-1
+;; transcribed by ravi, version 1 of 180330
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+1_1 1 inter_segment_gap 0.000 4.707 <o,f0,> general
+1_1 1 inter_segment_gap 4.707 6.373 <o,f0,> glass break
+1_1 1 inter_segment_gap 6.373 9.199 <o,f0,> general
+1_1 1 inter_segment_gap 9.199 10.837 <o,f0,> scream
+1_1 1 inter_segment_gap 10.837 15.270 <o,f0,> general
+1_1 1 inter_segment_gap 15.270 16.863 <o,f0,> glass break
+1_1 1 inter_segment_gap 16.863 21.035 <o,f0,> general
+1_1 1 inter_segment_gap 21.035 23.855 <o,f0,> scream
+1_1 1 inter_segment_gap 23.855 23.871 <o,f0,> general
+1_1 1 inter_segment_gap 23.871 27.208 <o,f0,> general
+1_1 1 inter_segment_gap 27.208 29.315 <o,f0,> scream
+1_1 1 inter_segment_gap 29.315 32.324 <o,f0,> general
+1_1 1 inter_segment_gap 32.324 33.649 <o,f0,> glass break
+1_1 1 inter_segment_gap 33.649 37.112 <o,f0,> general
+1_1 1 inter_segment_gap 37.112 38.426 <o,f0,> break in
+1_1 1 inter_segment_gap 38.426 42.238 <o,f0,> general
+1_1 1 inter_segment_gap 42.238 43.366 <o,f0,> glass break
+1_1 1 inter_segment_gap 43.366 47.071 <o,f0,> general
+1_1 1 inter_segment_gap 47.071 48.541 <o,f0,> glass break
+1_1 1 inter_segment_gap 48.541 52.744 <o,f0,> general
+1_1 1 inter_segment_gap 52.744 53.736 <o,f0,> glass break
+1_1 1 inter_segment_gap 53.736 58.341 <o,f0,> general
+1_1 1 inter_segment_gap 58.341 60.347 <o,f0,> scream
+1_1 1 inter_segment_gap 60.347 65.099 <o,f0,> general
+1_1 1 inter_segment_gap 65.099 186.194 <o,f0,> glass break

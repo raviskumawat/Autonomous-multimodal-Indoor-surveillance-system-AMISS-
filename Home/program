@@ -1,0 +1,12 @@
+#include<stdio.h>
+int main()
+{
+int a;
+char b;
+scanf("%d",&a);
+scanf("%c",&b);
+if(a%2==0)
+printf("%c",b);
+return 0;
+
+}
