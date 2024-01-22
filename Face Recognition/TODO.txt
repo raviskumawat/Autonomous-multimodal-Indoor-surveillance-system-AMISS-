@@ -1,0 +1,9 @@
+# for Custom image recognition
+
+First create a dataset using webpage 
+
+start "Register"
+
+Ask name and 5-6 photos for each applicant in various positions
+
+Create a folder with the name and save the photos inside the folder
